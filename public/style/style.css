@@ -1,0 +1,47 @@
+
+/* SFONDO E ALTEZZA PAGINA */
+body{
+    height: 2000px;
+    background-color: rgba(0, 255, 255, 0.5);
+    /* background-image: url("");
+    height: 95vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; */
+}
+
+
+/* TESTATA */
+header{
+    padding: 80px 10px 80px 10px;
+}
+
+
+/* TESTO */
+.text-break{
+    padding: 0px 25px 60px 25px;
+    font-weight: 500;
+    color: rgb(207, 27, 27);
+}
+
+
+/* CARDS */
+/* IMMAGINI */
+.card-img-top{
+    height: 370px;
+    width: auto;
+}
+/* TESTI */
+.card-text{
+    color: rgb(207, 27, 27);
+}   
+
+
+/* SEZIONE CONTATTI */
+footer{
+    padding-top: 170px;
+}
+/* TESTI */
+    .footer-text{
+        color: rgba(112, 141, 27, 0.8);
+}
